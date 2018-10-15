@@ -1,2 +1,2 @@
 # python
-本库上传有关python的学习代码
+本库上传python学习基础代码
